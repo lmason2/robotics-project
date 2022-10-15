@@ -1,3 +1,7 @@
+## CSE 598: Integration of Robot and Human Collaboration Project
+
+The following readme and the initial code is based on the respository at the following URL: https://github.com/ajay-sreeram/Music2Dance. We are attempting to improve on their results by seeking out potential ways to improve.
+
 ## :dancers: Music2Dance :dancer:
 #### Generating Dance steps for given music (CNN + LSTM + MDN)
 
